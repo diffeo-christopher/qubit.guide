@@ -920,7 +920,7 @@ If we take either of these two approaches, then we have a suitable replacement f
       \frac{\mathrm{d}\mathbf{q}}{\mathrm{d}t}
       &= \frac{\partial\mathcal{H}}{\partial\mathbf{p}}
     \\\frac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}
-      &= \frac{\partial\mathcal{H}}{\partial\mathbf{q}}
+      &= -\frac{\partial\mathcal{H}}{\partial\mathbf{q}}
     \end{aligned}
   $$
   which is a pair of first-order differential equations.
